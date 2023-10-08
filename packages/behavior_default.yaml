@@ -92,8 +92,8 @@ light:
     # the color button.
     presets:
       white:
-        chilly:      { color_temperature: 225 mireds      }
         cold:        { color_temperature: 153 mireds      }
+        chilly:      { color_temperature: 225 mireds      }
         luke:        { color_temperature: 400 mireds      }
         warm:        { color_temperature: 588 mireds      }
       rgb:
