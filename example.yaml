@@ -31,7 +31,7 @@ substitutions:
 
 packages:
   bslamp2:
-    url: https://github.com/mmakaay/esphome-xiaomi_bslamp2
+    url: https://github.com/lufton/esphome-xiaomi_bslamp2
     ref: 2023.4.0
     files:
       - packages/core.yaml
